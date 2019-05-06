@@ -1,0 +1,66 @@
+.titre{
+    font-family: 'Kaushan Script', cursive;
+}
+.sous-titre, .learn{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.description{
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-image: url('../img/Layer_15.png');
+    background-repeat:repeat;
+}
+
+header .titre{
+    font-size: 72px;
+}
+header .sous-titre{
+    font-size: 150px;
+    line-height: 140px;
+}
+header .learn{
+    font-size: 14px;
+}
+
+h2.titre{
+    font-size: 24px;
+}
+h3.sous-titre{
+    font-size: 30 px;
+}
+p.description{
+    font-size: 15px;
+    
+}
+
+
+.fact{
+    background-color: #95e1d3;
+}
+.fact-numbers{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 72px;
+    font-weight: bold;
+}
+.fact-text, .service-text, .our-team-text{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+.our-team-description{
+    font-size: 15px;
+    font-style: italic;
+}
+
+.logos{
+    background-color: #f8f8f8;
+}
+
+.container-map{
+    background-color:rgba(0, 0, 0, 0.123);
+}
